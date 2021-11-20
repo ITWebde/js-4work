@@ -796,6 +796,6 @@ var elList = document.querySelector(".row");
         
         new_list.classList.add("list__item");
       
-        elList.appendChild(new_list);
+         elList.appendChild(new_list);
     
     }
